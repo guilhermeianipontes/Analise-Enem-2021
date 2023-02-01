@@ -15,7 +15,3 @@
  - Faça o Download dos arquivos no link abaixo
  - https://drive.google.com/drive/folders/19PxZjW-DZYEheIlXemUXXUnsRbV3VUgX?usp=sharing
  
-
-### Relatório de Resultados
-
- - Resultados da analise
